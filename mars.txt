@@ -2,3 +2,4 @@ The planet is red.
 It's the fourth planet.
 It's smaller than Earth.
 It is referred to as the "Red Planet".
+It is dusty.
